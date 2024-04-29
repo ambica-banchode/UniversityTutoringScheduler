@@ -1,4 +1,5 @@
-CREATE DATABASE UniversityTutoringWebsiteDatabase
+CREATE DATABASE UniversityTutoringWebsiteDatabase; 
+
 USE [UniversityTutoringWebsiteDatabase]
 GO
 
